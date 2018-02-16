@@ -20,4 +20,4 @@ Certifications
 #. Monthly Netflix subscriber
 #. Super Nice Guy Award 2017
 
-.. warning:: Tyler gets very hangry if he's not fed at least every 4 hours. And don't feed him after midnight.
+.. warning:: Tyler gets very *hangry* if he's not fed at least every **4 hours**. And don't feed him after midnight.
