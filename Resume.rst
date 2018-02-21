@@ -36,7 +36,7 @@ Certifications
      - Smashed window
      - Poured water on server
      
-     `Amazon <http://amazon.com/>`
+     Amazon <http://amazon.com/>
 
 Some code I've written
 ========================
