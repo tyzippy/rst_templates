@@ -69,3 +69,7 @@ Some code I've written
   .. note:: You might find this interesting.
 
 .. caution:: Don't feed |T| after midnight.
+
+.. image:: Princess.jpg
+  :width: 400
+  :alt: Princess Dog
