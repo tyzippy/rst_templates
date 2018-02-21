@@ -37,6 +37,8 @@ Certifications
      - Poured water on server
      
      `Amazon <http://amazon.com/>`_
+     
+      `Netflix <http://netflix.com/>`_
 
 Some code I've written
 ========================
@@ -63,3 +65,7 @@ Some code I've written
 .. only:: End Users
 
   This paragraph will be shown only in the User's Guide.
+  
+  .. note:: You might find this interesting.
+
+.. caution:: Don't feed |T| after midnight.
