@@ -36,9 +36,9 @@ Certifications
      - Row 3, column 2
      - Row 3, column 3
      
-     `Amazon <http://amazon.com/>`_
+`Amazon <http://amazon.com/>`_
      
-      `Netflix <http://netflix.com/>`_
+`Netflix <http://netflix.com/>`_
 
 Some code I've written
 ========================
